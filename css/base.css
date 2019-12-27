@@ -1,0 +1,10 @@
+.containter {
+    width: 96%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 650px) {
+    .containter {
+        width: 85%;
+    }
+}
