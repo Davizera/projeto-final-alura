@@ -1,57 +1,55 @@
 .panel-speakers {
-    background: #F17D50;
-    color: white;
-    text-align: center;
-    font-size: 16px;
-    padding-top: 15px;
+	background: #f17d50;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	padding-top: 15px;
 }
 
 .panel-speakers .title {
-    font-size: 2.5em;
-    text-transform: uppercase;
-    margin: 10px 0;
+	font-size: 2.5em;
+	text-transform: uppercase;
+	margin: 10px 0;
 }
 
 .panel-speakers .subtitle {
-    font-size: 2em;
-    margin: 15px 0;
+	font-size: 2em;
+	margin: 15px 0;
 }
 
 .speakers {
-    color: black;
+	color: black;
 }
 
 .speakers .speaker {
-    vertical-align: top;
-    box-sizing: border-box;
-    display: inline-block;
-    background: white;
-    border-radius: 15px;
-    margin: 20px 10px;
-    padding: 15px 0;
-    width: 287px;
+	vertical-align: top;
+	box-sizing: border-box;
+	display: inline-block;
+	background: white;
+	border-radius: 15px;
+	margin: 20px 10px;
+	padding: 15px 0;
+	width: 287px;
 }
 
 .speaker .speaker-portrait {
-    padding: 0 20px;
+	padding: 0 20px;
 }
 
 .speakers .speaker .speaker-portrait img {
-    border-radius: 50%;
-    width: 55%;
+	border-radius: 50%;
+	width: 55%;
 }
 
 .speaker .speaker-name {
-    margin: 20px auto;
-    /* font-size: 1.1em; */
+	margin: 20px auto;
 }
 
 .speaker .speaker-bio {
-    margin: 20px auto;
-    font-weight: bold;
-    /* font-size: 1.1em; */
+	margin: 20px auto;
+	font-weight: bold;
 }
 
 .speaker .speaker-speach {
-    padding: 0 10px
+	padding: 0 10px;
 }

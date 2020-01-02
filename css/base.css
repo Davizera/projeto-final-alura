@@ -3,6 +3,17 @@
     margin: 0 auto;
 }
 
+.button {
+    background: #50A3A7;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 25px 50px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px #000000;
+}
+
 @media screen and (max-width: 650px) {
     .containter {
         width: 85%;
